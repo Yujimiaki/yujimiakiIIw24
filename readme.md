@@ -36,4 +36,6 @@
     *   Abra o arquivo `index.html` em seu navegador. É recomendado usar uma extensão como "Live Server" no VS Code ou um servidor HTTP simples para evitar problemas com módulos ES6 (`file:///` pode não funcionar corretamente).
     *   **Observação**: Para desenvolvimento local, o `js/principal.js` pode estar configurado para apontar para `http://localhost:3001`. Para usar a versão publicada do backend, ele deve apontar para a URL do Render.
 
+
+oi vagner
 ...(resto do seu README)...
